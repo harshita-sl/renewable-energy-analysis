@@ -87,6 +87,7 @@ Or run in Google Colab by uploading the notebook and the dataset ZIP file.
 - Daily and hourly production patterns
 - Relationships between multiple weather variables and energy production
 - Correlation structure between all analyzed variables
+See this notebook in colab for better visualization: https://colab.research.google.com/drive/1Hi4VGPhml-yeZCdJ-J-flO6Slm-8rWC9?usp=sharing
 
 ## Output
 
